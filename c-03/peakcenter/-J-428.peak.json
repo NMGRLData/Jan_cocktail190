@@ -1,0 +1,42 @@
+{
+    "AX": {
+        "center_dac": 5.877445448368327,
+        "center_signal": 102.7210657264225,
+        "high_dac": 5.884599756985561,
+        "high_resolving_power": 1223.6688661398455,
+        "high_signal": 75.71005252499157,
+        "low_dac": 5.870291139751092,
+        "low_resolving_power": 1176.2049312192594,
+        "low_signal": 76.73150365713768,
+        "points": "QLuY6DyAcGJAu6FiPQmea0C7qds++va7QLuyVT+V+wtAu7rOQHnJ/0C7w0dBTC2sQLvLwUIFK+JAu9Q6QnR/uEC73LRCqWHlQLvlLULCi0pAu+2nQszUlEC79iBCzMQjQLv+mkLM3e9AvAcTQsyR/UC8D41CzMJ2QLwYBkLMYK5AvCCAQsySmkC8KPlCy8npQLwxc0LLcuRAvDnsQskOP0C8QmZCwaBqQLxK30Kr40FAvFNYQm7CtkC8W9JB9fzZQLxkS0EnirdAvGzFQBPPikC8dT4+l+ROQLx9uL5VQrdAvIYxvhUbqEC8jqu+Gnat",
+        "resolution": 279.31002654627696
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuY6AAAAABAu6FiOaAVS0C7qdsAAAAAQLuyVTmgFUtAu7rOOSAVS0C7w0c6SBqfQLvLwTrIGp9Au9Q6OyoWokC73LQ7hxH6QLvlLTxXHKlAu+2nPMla3UC79iA9G7TOQLv+mj00GBVAvAcTPSv2/UC8D409NBgVQLwYBj1JWvFAvCCAPTfYlkC8KPk9Wj03QLwxcz01WEBAvDnsPTN4AEC8QmY9ObjXQLxK3z00GBVAvFNYPSKVu0C8W9I9EHNMQLxkSzy32IVAvGzFPCUV/EC8dT47eiFJQLx9uDsCEU5AvIYxOaAVS0C8jqsAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877475508488567,
+        "center_signal": 697.526971942426,
+        "high_dac": 5.88514083914989,
+        "high_resolving_power": 1271.4806401453857,
+        "high_signal": 517.386731305155,
+        "low_dac": 5.869810177827245,
+        "low_resolving_power": 1235.6710036859486,
+        "low_signal": 517.3825334849615,
+        "points": "QLuY6D8JVpNAu6FiP4tmgEC7qdtARI3LQLuyVUEtNsBAu7rOQh1lckC7w0dC+Sq/QLvLwUOTqEZAu9Q6Q/YB3EC73LREHPRLQLvlLUQqlS5Au+2nRC4iWkC79iBELkjkQLv+mkQuIV5AvAcTRC4JlEC8D41ELgeCQLwYBkQuB3ZAvCCARC3WMkC8KPlELcJ4QLwxc0Qtf3FAvDnsRCyCDUC8QmZEKWZwQLxK30QewKpAvFNYQ//8VUC8W9JDnIP2QLxkS0MCz8NAvGzFQg+PjEC8dT5A0E9CQLx9uD9boylAvIYxPghAF0C8jqs9io1N",
+        "resolution": 268.57282772305933
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
